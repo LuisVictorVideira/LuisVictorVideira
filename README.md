@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Luis Victor Videira</h1>
 
-<h3 align="center">Data Analyst | SQL Server | Data Engineering | BI</h3>
+<h3 align="center">Data Analyst | SQL Server | BI</h3>
 
 <p align="center">
 🔭 I’m currently working as a Data Analyst <br>
-🌱 I’m currently learning Data Science and Data Engineering <br>
+🌱 I’m currently learning Data Science <br>
 💬 Ask me about <b>SQL Server, Python, Pandas, ETL, Procedures and Data Modeling</b>
 </p>
 
